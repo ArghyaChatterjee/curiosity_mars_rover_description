@@ -1,10 +1,11 @@
 # curiosity_mars_rover_description
 This repository contains the curiosity mars rover simulation in gazebo.
 ## Simulation Platform
-This is tested with Ubuntu 18.04, ROS Melodic and Gazebo9.
+This workspace is tested with Ubuntu 18.04, ROS Melodic and Gazebo9.
 <p align="center">
     <img src="assets/curiosity_gazebo.png", width="800">
 </p>
+
 ## Build the workspace
 Build the workspace:
 ```
