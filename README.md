@@ -23,6 +23,7 @@ You can see the following:
 <p align="center">
     <img src="assets/curiosity_rviz.png", width="800">
 </p>
+
 ## Source
 - https://bitbucket.org/theconstructcore/curiosity_mars_rover/src/master/curiosity_mars_rover_description/
 
