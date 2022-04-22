@@ -9,7 +9,9 @@ This workspace is tested with Ubuntu 18.04, ROS Melodic and Gazebo9.
 ## Build the workspace
 Build the workspace:
 ```
-cd catkin_ws
+cd ~/catkin_ws/src
+git clone https://github.com/ArghyaChatterjee/curiosity_mars_rover_description.git
+cd ~/catkin_ws
 catkin_make
 ```
 
