@@ -25,6 +25,13 @@ You can see the following:
     <img src="assets/curiosity_rviz.png", width="800">
 </p>
 
+Launch another simulation:
+```
+cd catkin_ws
+source devel/setup.bash
+roslaunch curiosity_mars_rover_description main_real_mars.launch
+```
+
 ## Source
 - https://bitbucket.org/theconstructcore/curiosity_mars_rover/src/master/curiosity_mars_rover_description/
 
