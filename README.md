@@ -34,4 +34,7 @@ roslaunch curiosity_mars_rover_description main_real_mars.launch
 
 ## Source
 - https://bitbucket.org/theconstructcore/curiosity_mars_rover/src/master/curiosity_mars_rover_description/
-
+- https://github.com/PaTara43/robonomics_sample_controller
+- https://wiki.robonomics.network/docs/en/connect-mars-curiosity-rover-under-robonomics-parachain-control/
+- https://www.youtube.com/watch?v=6BSOyRbmac8
+- https://www.youtube.com/watch?v=fq0DJSbwiZI
